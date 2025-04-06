@@ -7,6 +7,6 @@
 4. Создать эндпоинт назначения в Object Storage
 ![dst-endoint](s3_endpoint.png)
 5. Создать трансфер
-![dt](datatransfer.png)
+![dt](transfer.png)
 6. Скачать результат трансфера из Objecct Storage (положил csv тут в корень проекта)
 ![dt](result.png)
